@@ -1,0 +1,5 @@
+obj ObjFiles/teapot.obj rx 90 rz 180
+obj ObjFiles/sphere.obj s 0.5 0.5 0.5 t 0 0 1
+obj ObjFiles/sphere.obj s 0.5 0.5 0.5 t 0 0 3
+obj ObjFiles/sphere.obj s 0.5 0.5 0.5 t -3 0 1
+obj ObjFiles/sphere.obj s 0.5 0.5 0.5 t 2 0 1
